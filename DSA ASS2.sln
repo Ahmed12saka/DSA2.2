@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA ASS2", "DSA ASS2\DSA ASS2.csproj", "{81F203C4-09DB-4828-ACF8-B16CB00306BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F203C4-09DB-4828-ACF8-B16CB00306BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F203C4-09DB-4828-ACF8-B16CB00306BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F203C4-09DB-4828-ACF8-B16CB00306BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F203C4-09DB-4828-ACF8-B16CB00306BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49BD99AB-08CD-4235-B1B4-2A158E936F93}
+	EndGlobalSection
+EndGlobal
